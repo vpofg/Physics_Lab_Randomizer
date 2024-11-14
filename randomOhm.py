@@ -15,10 +15,3 @@ def ohmRand():
 
 
 ohmRand()
-
-
-def printName():
-    name = input("Enter your name: ")
-    print("Hello " + name + "!")
-
-printName()
